@@ -60,7 +60,7 @@
     position: absolute;
     width: 100%;
     height: 100%;
-    background: linear-gradient(#050b3175, white);
+    background: linear-gradient(#050b3175, #050b3175);
     inset: 0;
     z-index: 2;
 }

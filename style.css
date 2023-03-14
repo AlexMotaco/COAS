@@ -3052,10 +3052,10 @@ body .search-modal .close:hover {
   background-repeat: no-repeat;
   background-position: top center;
 }
-.rs-banner.banner-home-style2 .content-wrap {
+.content-wrap {
   padding: 325px 0 230px;
 }
-.rs-banner.banner-home-style2 .content-wrap .sub-text {
+.content-wrap .sub-text {
   font-size: 18px;
   line-height: 28px;
   font-weight: 500;
@@ -3064,39 +3064,39 @@ body .search-modal .close:hover {
   display: block;
   margin-bottom: 18px;
 }
-.rs-banner.banner-home-style2 .content-wrap .title {
+.content-wrap .title {
   font-size: 52px;
   font-weight: 700;
   line-height: 1.4em;
   color: #ffffff;
   margin-bottom: 22px;
 }
-.rs-banner.banner-home-style2 .content-wrap .description {
+.content-wrap .description {
   font-size: 18px;
   font-weight: 500;
   color: #ffffff;
 }
-.rs-banner.banner-home-style2 .rs-contact .contact-wrap {
+.rs-contact .contact-wrap {
   background: #ffffff;
   padding: 22px 40px 45px;
   border-radius: 4px 4px 4px 4px;
 }
-.rs-banner.banner-home-style2 .rs-contact .contact-wrap .content-part {
+.rs-contact .contact-wrap .content-part {
   text-align: center;
 }
-.rs-banner.banner-home-style2 .rs-contact .contact-wrap .content-part .title {
+.rs-contact .contact-wrap .content-part .title {
   font-size: 30px;
   font-weight: 500;
   line-height: 1.4em;
   color: #0A0A0A;
   margin: 10px 0px 4px 0px;
 }
-.rs-banner.banner-home-style2 .rs-contact .contact-wrap .content-part .description {
+.rs-contact .contact-wrap .content-part .description {
   font-size: 16px;
   font-weight: 400;
   color: #333333;
 }
-.rs-banner.banner-home-style2 .rs-contact .contact-wrap .from-control {
+.rs-contact .contact-wrap .from-control {
   padding: 12px 25px 12px 25px;
   border-radius: 5px 5px 5px 5px;
   border-style: solid;
@@ -3106,25 +3106,25 @@ body .search-modal .close:hover {
   width: 100%;
   opacity: 4;
 }
-.rs-banner.banner-home-style2 .rs-contact .contact-wrap textarea {
+.rs-contact .contact-wrap textarea {
   height: 120px;
 }
-.rs-banner.banner-home-style2 .rs-contact .contact-wrap ::-webkit-input-placeholder {
+.rs-contact .contact-wrap ::-webkit-input-placeholder {
   /* Chrome/Opera/Safari */
   color: #454545;
   opacity: 0.4;
 }
-.rs-banner.banner-home-style2 .rs-contact .contact-wrap ::-moz-placeholder {
+.rs-contact .contact-wrap ::-moz-placeholder {
   /* Firefox 19+ */
   color: #454545;
   opacity: 0.4;
 }
-.rs-banner.banner-home-style2 .rs-contact .contact-wrap :-ms-input-placeholder {
+.rs-contact .contact-wrap :-ms-input-placeholder {
   /* IE 10+ */
   color: #454545;
   opacity: 0.4;
 }
-.rs-banner.banner-home-style2 .rs-contact .contact-wrap :-moz-placeholder {
+.rs-contact .contact-wrap :-moz-placeholder {
   /* Firefox 18- */
   color: #454545;
   opacity: 0.4;
